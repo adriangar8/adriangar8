@@ -1,4 +1,4 @@
-### Hi there! I'm Adrián García 🐲
+### Hi there! I'm Adrián García 🦉🦋🐿️🦀🐙🐍🦇
 
 [![adrian's github stats](https://github-readme-stats.vercel.app/api?username=adriangar8&show_icons=true&theme=radical)](https://github.com/adriangar8)
 <!--
