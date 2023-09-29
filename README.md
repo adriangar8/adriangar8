@@ -17,4 +17,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangar8&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangar8&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
