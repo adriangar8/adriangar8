@@ -12,10 +12,10 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615481763173/NhwJkoaB3.jpeg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.png/_jcr_content/renditions/cq5dam.web.1280.1280.png" />
 <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
