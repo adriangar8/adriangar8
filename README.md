@@ -1,5 +1,7 @@
 ### Hi there, I'm Adrián García! 🦉
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriangar8&label=Profile%20views&color=0e75b6&style=flat" alt="adriangar8" /> </p>
+
 [![adrian's github stats](https://github-readme-stats.vercel.app/api?username=adriangar8&show_icons=true&theme=radical)](https://github.com/adriangar8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriangar8&layout=compact&theme=radical)
