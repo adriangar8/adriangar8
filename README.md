@@ -23,5 +23,5 @@
 <img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/250px-Apache_Spark_logo.svg.png" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Linux" width="80px" style="padding-right:10px;" src="https://ssl.eventilla.com/static/logos/141224/889fa9b929355a4ccea6c86694da9189.png" />
+<img align="left" alt="Linux" width="80px" style="padding-right:10px;" src="![Alt text](/home/adriangar8/Documents/academia/year3/semester2/social_innovation/g106598a2023-24iENG.pdf)" />
 <br />
