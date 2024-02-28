@@ -24,4 +24,5 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="PennyLane" width="50px" style="padding-right:10px;" src="https://ssl.eventilla.com/static/logos/141224/889fa9b929355a4ccea6c86694da9189.png" />
+<img align="left" alt="CType" width="30px" style="padding-right:10px;" src="https://www.matecdev.com/img/cpp-py.png" />
 <br />
